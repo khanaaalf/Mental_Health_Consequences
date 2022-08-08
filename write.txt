@@ -1,0 +1,11 @@
+This is my write up about the project. I learned a lot of things in this project.
+I learned how to use properly matplot lib functions in python. Along with that I was able to also do a nice EDA about my dataset. I was not confident initially about my Python knowledge but after doing this project I got a first hand experience on how to do a proper data analyzing using python. This is one of the best project I worked on as it has given me immense knowldege and confidence.
+
+I used a filter function which was able to categorize Gender/Countries etc. I have used in several places the same functiion. Inititally I had issues with categorizing the data. But with the help of this function I was able to easily do it.
+
+Some insight I saw was that Canada is doing well compared to other countries with respect to attitude towards mental health sickness. This was clearly seen in my comparison.
+
+Lastly Thank you professor for giving this wonderfull Assignment to work on which really enhanced our skill. And also I want to tell that I learned a lot about git after doing this project.
+
+
+
